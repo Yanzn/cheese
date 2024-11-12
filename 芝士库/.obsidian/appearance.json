@@ -3,5 +3,6 @@
   "accentColor": "",
   "interfaceFontFamily": "Apple Symbols",
   "textFontFamily": "Apple Symbols",
-  "monospaceFontFamily": "Apple Symbols"
+  "monospaceFontFamily": "Apple Symbols",
+  "baseFontSize": 16
 }
